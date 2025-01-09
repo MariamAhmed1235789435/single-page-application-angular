@@ -1,0 +1,31 @@
+.line-star {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.line {
+  width: 70px; /* Adjust line width */
+  height: 4px;
+  background-color: #b51764; /* Dark Blue */
+  margin: 0 5px;
+}
+
+.star {
+  font-size: 20px; /* Size of the star */
+  color: #b51764; /* Dark Blue */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+}
+
+section{
+  background-color: #ffe2ec;
+}
+
+h1,p {
+color: #b51764;
+  line-height: 1.6;
+}
